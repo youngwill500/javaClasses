@@ -6,12 +6,12 @@ public class GroupTask {
 
 	public static void main(String[] args) {
 		
-		Scanner scan = new Scanner(System.in);
+		//Scanner scan = new Scanner(System.in);
 		
 		//Problem #1: How to swap two numbers without using a temporary variable?  
 		
 		
-		int x = 10;
+	/	int x = 10;
 		int y = 5; 
 		
 		x = x+y; // This is X = 15
@@ -35,7 +35,17 @@ System.out.println(newSen.substring(5, 14));
 		
 		
 		
-		
+int i = 50;
+
+int[] a = new int[10];
+System.out.println(a.length);
+
+a = new int[100];
+System.out.println(a.length);
+
+a = new int[i];
+System.out.println(a.length);
+
 		
 		
 		
