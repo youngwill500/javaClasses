@@ -4,9 +4,13 @@ public class ninethQuestion {
 
 	public static void main(String[] args) {
 
+		// Write a Jave Program to print first 10 numbers of fibonacci series
 		
-		// 0 1 1 2 3 5 8 13 21
 		
+		
+		
+		// 0 1=1=2=3=5=8=13=21
+		//  + +	+ +	+ + +  +
 		
 		
 		int a, b, c;

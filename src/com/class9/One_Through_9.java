@@ -24,8 +24,10 @@ public class One_Through_9 {
 		
 		
 		
+		double A = 100.50;
+		int B = (int) A;
 		
-		
+		System.out.println(B);
 		
 		
 		
